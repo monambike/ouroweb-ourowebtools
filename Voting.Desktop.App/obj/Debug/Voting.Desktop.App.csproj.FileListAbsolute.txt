@@ -1,0 +1,17 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\bin\Debug\Voting.Desktop.App.exe.config
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\bin\Debug\Voting.Desktop.App.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\bin\Debug\Voting.Desktop.App.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\MainWindow.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\App.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App_MarkupCompile.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App_MarkupCompile.lref
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\MainWindow.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.g.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.Properties.Resources.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.csproj.GenerateResource.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Views\Main.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Views\Main.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Desktop.App\obj\Debug\Voting.Desktop.App.csproj.AssemblyReference.cache

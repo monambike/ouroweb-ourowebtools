@@ -1,0 +1,5 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\VotingRoom.Model\bin\Debug\VotingRoom.Model.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\VotingRoom.Model\bin\Debug\VotingRoom.Model.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\VotingRoom.Model\obj\Debug\VotingRoom.Model.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\VotingRoom.Model\obj\Debug\VotingRoom.Model.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\VotingRoom.Model\obj\Debug\VotingRoom.Model.pdb

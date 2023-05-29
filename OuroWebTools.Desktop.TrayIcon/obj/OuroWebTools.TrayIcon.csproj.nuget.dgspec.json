@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.TrayIcon\\OuroWebTools.TrayIcon.csproj": {}
+  },
+  "projects": {
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj",
+        "projectName": "Common.Models",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj",
+        "packagesPath": "C:\\Users\\dvp10\\.nuget\\packages\\",
+        "outputPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvp10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srv-dvp/CustomNugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\Common.Server.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\Common.Server.csproj"
+              },
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\Common.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\Common.Server.csproj",
+        "projectName": "Common.Server",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\Common.Server.csproj",
+        "packagesPath": "C:\\Users\\dvp10\\.nuget\\packages\\",
+        "outputPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvp10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srv-dvp/CustomNugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.TrayIcon\\OuroWebTools.TrayIcon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.TrayIcon\\OuroWebTools.TrayIcon.csproj",
+        "projectName": "OuroWebTools.TrayIcon",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.TrayIcon\\OuroWebTools.TrayIcon.csproj",
+        "packagesPath": "C:\\Users\\dvp10\\.nuget\\packages\\",
+        "outputPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.TrayIcon\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvp10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srv-dvp/CustomNugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj"
+              },
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj"
+              },
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\ScriptPackage.Model.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\ScriptPackage.Model.csproj"
+              },
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\WorkTimeNote.Desktop.TrayIcon\\WorkTimeNote.TrayIcon.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\WorkTimeNote.Desktop.TrayIcon\\WorkTimeNote.TrayIcon.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj",
+        "projectName": "Common.Utilities",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj",
+        "packagesPath": "C:\\Users\\dvp10\\.nuget\\packages\\",
+        "outputPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvp10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srv-dvp/CustomNugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\ScriptPackage.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\ScriptPackage.Model.csproj",
+        "projectName": "ScriptPackage.Model",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\ScriptPackage.Model.csproj",
+        "packagesPath": "C:\\Users\\dvp10\\.nuget\\packages\\",
+        "outputPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\ScriptPackage.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvp10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://srv-dvp/CustomNugetServer/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\OuroWebTools.Desktop.Utilities\\Common.Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.Toolkit.Uwp.Notifications": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\WorkTimeNote.Desktop.TrayIcon\\WorkTimeNote.TrayIcon.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\WorkTimeNote.Desktop.TrayIcon\\WorkTimeNote.TrayIcon.csproj",
+        "projectName": "WorkTimeNote.TrayIcon",
+        "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\WorkTimeNote.Desktop.TrayIcon\\WorkTimeNote.TrayIcon.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj": {
+                "projectPath": "C:\\DvpLocal\\Github\\ouroweb_ourowebtools_desktop\\Models\\Common.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="OuroWebTools.Desktop.Views.Settings.CurrentWorkingOn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:commonControls="clr-namespace:Common.UserControls;assembly=Common.UserControls"
+             mc:Ignorable="d" >
+    <StackPanel>
+        <commonControls:Title Text="Atualmemente Trabalhando Com"/>
+        <commonControls:SuggestionTextBox x:Name="txtTaskNumber" Label="Número da Pendência"/>
+        <commonControls:ComboBox x:Name="cmbVersion" Label="Versão"/>
+    </StackPanel>
+</UserControl>

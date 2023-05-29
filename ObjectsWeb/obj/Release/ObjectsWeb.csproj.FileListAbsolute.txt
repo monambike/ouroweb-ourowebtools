@@ -1,0 +1,5 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb\bin\Release\ObjectsWeb.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb\bin\Release\ObjectsWeb.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb\obj\Release\ObjectsWeb.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb\obj\Release\ObjectsWeb.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb\obj\Release\ObjectsWeb.pdb

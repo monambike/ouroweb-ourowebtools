@@ -1,0 +1,15 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\bin\Debug\ObjectsWeb.Desktop.App.exe.config
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\bin\Debug\ObjectsWeb.Desktop.App.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\bin\Debug\ObjectsWeb.Desktop.App.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.csproj.AssemblyReference.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\MainWindow.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\App.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App_MarkupCompile.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App_MarkupCompile.lref
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\MainWindow.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.g.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.Properties.Resources.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.csproj.GenerateResource.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\ObjectsWeb.Desktop.App\obj\Debug\ObjectsWeb.Desktop.App.pdb

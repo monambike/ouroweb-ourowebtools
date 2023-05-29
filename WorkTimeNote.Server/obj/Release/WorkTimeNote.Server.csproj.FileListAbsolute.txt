@@ -1,0 +1,5 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\bin\Release\WorkTimeNote.Server.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\bin\Release\WorkTimeNote.Server.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Release\WorkTimeNote.Server.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Release\WorkTimeNote.Server.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Release\WorkTimeNote.Server.pdb

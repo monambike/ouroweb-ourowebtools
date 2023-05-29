@@ -1,0 +1,6 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Release\Common.Core.dll.config
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Release\Common.Core.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Release\Common.Core.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Release\Common.Core.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Release\Common.Core.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Release\Common.Core.pdb

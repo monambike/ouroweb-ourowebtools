@@ -1,0 +1,146 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuroWebTools.Desktop", "OuroWebTools.Desktop.App\OuroWebTools.Desktop.csproj", "{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Server", "OuroWebTools.Desktop.Server\Common.Server.csproj", "{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utilities", "OuroWebTools.Desktop.Utilities\Common.Utilities.csproj", "{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{19FF5480-FD3D-46D3-9A83-0C065CEC51F0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{2FBB4F2D-8DFA-4870-A12A-B455AE56E9E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Models", "Models\Common.Models.csproj", "{421E124B-0E5B-48BA-B123-319D3CCA468C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptPackage.Model", "ScriptPackage.Model\ScriptPackage.Model.csproj", "{7B1B10E2-3844-4E75-B915-BBD45C84E63C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsWeb", "ObjectsWeb\ObjectsWeb.csproj", "{C829A14C-B247-443A-98DF-BACD33AAA1AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{57632A81-502D-4674-9F18-47523B531A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTimeNote.TrayIcon", "WorkTimeNote.Desktop.TrayIcon\WorkTimeNote.TrayIcon.csproj", "{8E599E04-224E-42C6-8091-6C2B1B9FDB67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{E68D709E-FDDE-4051-A782-E45411A90C5F}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\ouroweb_background-1584x396.png = Resources\ouroweb_background-1584x396.png
+		Resources\ouroweb_header-350x135.png = Resources\ouroweb_header-350x135.png
+		Resources\ouroweb_square-200x200.png = Resources\ouroweb_square-200x200.png
+		OuroWebTools.Core\SplashScreen.png = OuroWebTools.Core\SplashScreen.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Icons", "Icons", "{D9A9028D-4912-4E0E-BE21-5BF7808BD4A5}"
+	ProjectSection(SolutionItems) = preProject
+		Resources\ouroweb_square-64x64.ico = Resources\ouroweb_square-64x64.ico
+		Resources\purple_tool-64x64.ico = Resources\purple_tool-64x64.ico
+		Resources\tools-64x64.ico = Resources\tools-64x64.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OuroWebTools", "OuroWebTools", "{C92F909B-B900-4A42-9B12-4783D57E8549}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{164907F5-C3D5-4BA5-BA6C-B5587EA6F291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.UserControls", "WpfControlLibrary1\Common.UserControls.csproj", "{86AF344C-7E85-4BC1-9D39-430E39079401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.CustomControls", "Common.CustomControls\Common.CustomControls.csproj", "{E90A5224-C687-4C86-94D2-0A5034DDEF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuroWebTools.Core", "OuroWebTools.Core\OuroWebTools.Core.csproj", "{2A0901AB-4E73-4374-8440-52353BF4AA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Core", "Common.Core\Common.Core.csproj", "{388C9385-D819-4299-A33A-62DA5347532D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OuroWebTools.Settings", "OuroWebTools.Settings\OuroWebTools.Settings.csproj", "{335B378A-7B45-40FB-A02A-5E1BDBD48E38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectsWeb", "ObjectsWeb", "{64E405E7-0879-4078-84D1-8493F301D025}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScriptPackage", "ScriptPackage", "{31E98599-BF4D-4EF6-A19E-3E6FF18EFF43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WorkTimeNote", "WorkTimeNote", "{02E3B326-8AFE-4A8A-A20E-E1EAF2DAF726}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OuroWebTools.Setup", "OuroWebTools.Setup\OuroWebTools.Setup.vdproj", "{AEF8F346-9A87-49C6-933C-7384EFE35E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421E124B-0E5B-48BA-B123-319D3CCA468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E124B-0E5B-48BA-B123-319D3CCA468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E124B-0E5B-48BA-B123-319D3CCA468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E124B-0E5B-48BA-B123-319D3CCA468C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1B10E2-3844-4E75-B915-BBD45C84E63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1B10E2-3844-4E75-B915-BBD45C84E63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1B10E2-3844-4E75-B915-BBD45C84E63C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C829A14C-B247-443A-98DF-BACD33AAA1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C829A14C-B247-443A-98DF-BACD33AAA1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C829A14C-B247-443A-98DF-BACD33AAA1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E599E04-224E-42C6-8091-6C2B1B9FDB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E599E04-224E-42C6-8091-6C2B1B9FDB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E599E04-224E-42C6-8091-6C2B1B9FDB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AF344C-7E85-4BC1-9D39-430E39079401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AF344C-7E85-4BC1-9D39-430E39079401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AF344C-7E85-4BC1-9D39-430E39079401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AF344C-7E85-4BC1-9D39-430E39079401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90A5224-C687-4C86-94D2-0A5034DDEF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A5224-C687-4C86-94D2-0A5034DDEF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A5224-C687-4C86-94D2-0A5034DDEF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A5224-C687-4C86-94D2-0A5034DDEF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0901AB-4E73-4374-8440-52353BF4AA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0901AB-4E73-4374-8440-52353BF4AA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0901AB-4E73-4374-8440-52353BF4AA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0901AB-4E73-4374-8440-52353BF4AA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388C9385-D819-4299-A33A-62DA5347532D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388C9385-D819-4299-A33A-62DA5347532D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388C9385-D819-4299-A33A-62DA5347532D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388C9385-D819-4299-A33A-62DA5347532D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335B378A-7B45-40FB-A02A-5E1BDBD48E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335B378A-7B45-40FB-A02A-5E1BDBD48E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335B378A-7B45-40FB-A02A-5E1BDBD48E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335B378A-7B45-40FB-A02A-5E1BDBD48E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF8F346-9A87-49C6-933C-7384EFE35E6D}.Debug|Any CPU.ActiveCfg = Debug
+		{AEF8F346-9A87-49C6-933C-7384EFE35E6D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F476DBD-8D50-4C91-A85D-91E2CEE7CC8C} = {C92F909B-B900-4A42-9B12-4783D57E8549}
+		{C6FA3B62-33BC-4232-816D-71B90B6E2BE8} = {57632A81-502D-4674-9F18-47523B531A7F}
+		{03999FF8-3DE3-4A29-B590-5F6269BFC2D9} = {57632A81-502D-4674-9F18-47523B531A7F}
+		{421E124B-0E5B-48BA-B123-319D3CCA468C} = {57632A81-502D-4674-9F18-47523B531A7F}
+		{7B1B10E2-3844-4E75-B915-BBD45C84E63C} = {31E98599-BF4D-4EF6-A19E-3E6FF18EFF43}
+		{C829A14C-B247-443A-98DF-BACD33AAA1AA} = {64E405E7-0879-4078-84D1-8493F301D025}
+		{8E599E04-224E-42C6-8091-6C2B1B9FDB67} = {02E3B326-8AFE-4A8A-A20E-E1EAF2DAF726}
+		{E68D709E-FDDE-4051-A782-E45411A90C5F} = {2FBB4F2D-8DFA-4870-A12A-B455AE56E9E1}
+		{D9A9028D-4912-4E0E-BE21-5BF7808BD4A5} = {E68D709E-FDDE-4051-A782-E45411A90C5F}
+		{164907F5-C3D5-4BA5-BA6C-B5587EA6F291} = {57632A81-502D-4674-9F18-47523B531A7F}
+		{86AF344C-7E85-4BC1-9D39-430E39079401} = {164907F5-C3D5-4BA5-BA6C-B5587EA6F291}
+		{E90A5224-C687-4C86-94D2-0A5034DDEF09} = {164907F5-C3D5-4BA5-BA6C-B5587EA6F291}
+		{2A0901AB-4E73-4374-8440-52353BF4AA4D} = {C92F909B-B900-4A42-9B12-4783D57E8549}
+		{388C9385-D819-4299-A33A-62DA5347532D} = {57632A81-502D-4674-9F18-47523B531A7F}
+		{335B378A-7B45-40FB-A02A-5E1BDBD48E38} = {C92F909B-B900-4A42-9B12-4783D57E8549}
+		{AEF8F346-9A87-49C6-933C-7384EFE35E6D} = {C92F909B-B900-4A42-9B12-4783D57E8549}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6E5FD5-71BB-437D-8AC2-4EC91DB8DFBF}
+	EndGlobalSection
+EndGlobal

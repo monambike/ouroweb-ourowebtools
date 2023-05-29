@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6FA3B62-33BC-4232-816D-71B90B6E2BE8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Common.Server</RootNamespace>
+    <AssemblyName>Common.Server</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=14.100.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Common.Core\Properties\AssemblyInfo.cs">
+      <Link>Properties\AssemblyInfo.cs</Link>
+    </Compile>
+    <Compile Include="Data Transfer Objects\Application.cs" />
+    <Compile Include="Connections\DefaultConnection.cs" />
+    <Compile Include="Connections\ConnectionStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>ConnectionStrings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Server Requisitions\FollowWeb\Version.cs" />
+    <Compile Include="Server Requisitions\FollowWeb\Pendencias.cs" />
+    <Compile Include="Messages and Notifications\Custom.cs" />
+    <Compile Include="Data Transfer Objects\InstanceAndDatabase.cs" />
+    <Compile Include="Table Mapping\Applications\SubVersao.cs" />
+    <Compile Include="Table Mapping\System.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Server Requisitions\SqlServer Objects\SqlServer.cs" />
+    <Compile Include="Table Mapping\Applications\Aplicativo.cs" />
+    <Compile Include="Table Mapping\Applications\ClienteProdutoAplicativo.cs" />
+    <Compile Include="Table Mapping\Applications\Produto.cs" />
+    <Compile Include="Table Mapping\Applications\ProdutoAplicativo.cs" />
+    <Compile Include="Table Mapping\Applications\Versao.cs" />
+    <Compile Include="Table Mapping\People\Cliente.cs" />
+    <Compile Include="Table Mapping\People\Contato.cs" />
+    <Compile Include="Table Mapping\People\Solicitante.cs" />
+    <Compile Include="Table Mapping\People\Usuario.cs" />
+    <Compile Include="Table Mapping\Tasks\Errors\CasoDeTeste.cs" />
+    <Compile Include="Table Mapping\Tasks\Errors\CasoTesteErros.cs" />
+    <Compile Include="Table Mapping\Tasks\Errors\ProjetoTeste.cs" />
+    <Compile Include="Table Mapping\Tasks\Errors\RetornoDeIncidente.cs" />
+    <Compile Include="Table Mapping\Tasks\Errors\TipoCorrecao.cs" />
+    <Compile Include="Table Mapping\Tasks\Pendencia.cs" />
+    <Compile Include="Table Mapping\Tasks\Requisito.cs" />
+    <None Include="Connections\ConnectionStrings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>ConnectionStrings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OuroWebTools.Desktop.Utilities\Common.Utilities.csproj">
+      <Project>{03999FF8-3DE3-4A29-B590-5F6269BFC2D9}</Project>
+      <Name>Common.Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Linq">
+      <Version>4.3.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

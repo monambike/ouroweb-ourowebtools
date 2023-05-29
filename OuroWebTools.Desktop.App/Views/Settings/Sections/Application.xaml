@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="OuroWebTools.Desktop.Views.Settings.Application"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:commonControls="clr-namespace:Common.UserControls;assembly=Common.UserControls"
+             xmlns:local="clr-namespace:OuroWebTools.Settings;assembly=OuroWebTools.Settings"
+             mc:Ignorable="d">
+    <StackPanel>
+        <commonControls:Title Text="Aplicativo"/>
+        <commonControls:CheckBox Label="Iniciar aplicativo junto com o Windows."  />
+        <commonControls:CheckBox Label="Abrir tela principal na inicialização." />
+    </StackPanel>
+</UserControl>

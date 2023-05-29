@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Voter]
+(
+	[Id] INT CONSTRAINT [PK_VoterId] PRIMARY KEY NOT NULL
+)

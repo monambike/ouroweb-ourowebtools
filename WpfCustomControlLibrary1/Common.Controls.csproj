@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Controls\ComboWithListBox\ComboWithListBox.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>ComboWithListBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Controls\TextBoxWithLabel\TextBoxWithLabel.xaml.cs">
+      <DependentUpon>TextBoxWithLabel.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="Controls\ComboWithListBox\ComboWithListBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Controls\TextBoxWithLabel\TextBoxWithLabel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>

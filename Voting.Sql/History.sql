@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[History]
+(
+	[Id] INT CONSTRAINT [PK_HistoryId] PRIMARY KEY NOT NULL,
+    [FinalizationDate] DATETIME2 NOT NULL DEFAULT GETDATE(),
+    [GroupId] INT CONSTRAINT [FK_History_Group] FOREIGN KEY REFERENCES [Group]([Id]) NOT NULL, 
+    [RoomId] INT CONSTRAINT [FK_History_Room] FOREIGN KEY REFERENCES [Room]([Id]) NOT NULL
+)

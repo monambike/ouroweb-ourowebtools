@@ -1,0 +1,14 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Controls\ComboWithListBox.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Controls\ComboWithListBox.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Controls\TextBoxWithLabel.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Controls\TextBoxWithLabel.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.csproj.GenerateResource.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\bin\Debug\Common.Controls.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\bin\Debug\Common.Controls.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls_MarkupCompile.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls_MarkupCompile.lref
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.g.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.Properties.Resources.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfControlLibrary1\obj\Debug\Common.Controls.pdb

@@ -1,0 +1,15 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary1.deps.json
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary1.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\bin\Debug\netcoreapp3.1\WpfCustomControlLibrary1.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.csproj.AssemblyReference.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1_MarkupCompile.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1_MarkupCompile.lref
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.g.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.AssemblyInfoInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.AssemblyInfo.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\WpfCustomControlLibrary1.pdb

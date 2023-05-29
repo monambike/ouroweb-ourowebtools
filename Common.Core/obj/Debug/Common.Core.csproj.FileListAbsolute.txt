@@ -1,0 +1,7 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Debug\Common.Core.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Debug\Common.Core.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Debug\Common.Core.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Debug\Common.Core.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Debug\Common.Core.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\bin\Debug\Common.Core.dll.config
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Common.Core\obj\Debug\Common.Core.csproj.AssemblyReference.cache

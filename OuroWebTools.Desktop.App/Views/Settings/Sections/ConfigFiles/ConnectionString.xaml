@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="OuroWebTools.Desktop.Views.Settings.ConfigFiles.ConnectionString"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:commonControls="clr-namespace:Common.UserControls;assembly=Common.UserControls"
+             mc:Ignorable="d" Width="450">
+    <DockPanel>
+        <commonControls:Subtitle Text="Connection Strings" DockPanel.Dock="Top"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <commonControls:ComboListBox Description="Instâncias que serão utilizadas para definir o conteúdo dos arquivos de conexão (Connection Strings)."
+                                         Grid.Column="0" x:Name="clbConnectionStrings" ComboBoxSelectionChanged="ConnectionStrings_ComboBoxSelectionChanged"/>
+            <commonControls:ComboListBox Description="Bases que serão utilizadas para definir o conteúdo dos arquivos de conexão (Connection Strings)."
+                                         Grid.Column="1" x:Name="clbDatabases"/>
+        </Grid>
+    </DockPanel>
+</UserControl>

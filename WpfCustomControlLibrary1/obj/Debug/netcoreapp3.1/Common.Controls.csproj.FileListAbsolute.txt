@@ -1,0 +1,10 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Common.Controls.csproj.AssemblyReference.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Controls\ComboWithListBox\ComboWithListBox.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Controls\ComboWithListBox\ComboWithListBox.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Controls\TextBoxWithLabel\TextBoxWithLabel.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Common.Controls_MarkupCompile.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Common.Controls_MarkupCompile.lref
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Controls\TextBoxWithLabel\TextBoxWithLabel.baml
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Common.Controls.dll
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WpfCustomControlLibrary1\obj\Debug\netcoreapp3.1\Common.Controls.pdb

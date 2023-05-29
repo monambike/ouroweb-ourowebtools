@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OuroWebTools.Settings" GeneratedClassName="CurrentWorkingOn">
+  <Profiles />
+  <Settings>
+    <Setting Name="IssueNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">68424</Value>
+    </Setting>
+    <Setting Name="Version" Type="Common.Server.Version" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Debug\OuroWebTools.exe.config
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Debug\OuroWebTools.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Debug\OuroWebTools.pdb
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Debug\OuroWebTools.Properties.Resources.resources
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Debug\Modules.csproj.GenerateResource.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Debug\Modules.csproj.CoreCompileInputs.cache
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Debug\OuroWebTools.exe
+C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Debug\OuroWebTools.pdb
