@@ -1,38 +1,38 @@
 # OuroWebTools :toolbox:
 
-Eu fiz esse aplicativo para tentar automatizar alguns processos enquanto trabalhando na [OuroWeb (Custom Software)](https://customsoftware.com.br/). É uma aplicativo que tem como proposta ser utilizado principalmente por meio de seu ícone na bandeja.
+I created this application to try automating some processes while working at [OuroWeb (Custom Software)](https://customsoftware.com.br/). It's an application designed to be primarily used through its system tray icon.
 
-Esse foi o primeiro projeto que eu fiz que começou a seguir padrões um pouco mais alinhados com práticas de programação populares no mercado que eu tentei aprender por conta própria, como por exemplo "Clean Code" e "Clean Architeture".
+This was the first project I worked on that started to follow standards more aligned with popular programming practices in the market that I tried to learn on my own, such as "Clean Code" and "Clean Architecture".
 
 ![image](https://user-images.githubusercontent.com/35270174/212320230-8fafd3d7-058f-428f-a07b-e4d59611036b.png)
 
 
-O aplicativo foi feito com C# e WPF utilizando o .NET Framework em conjunto com a metodologia MVVM.
+The application was built with C# and WPF using the .NET Framework in conjunction with the MVVM methodology.
 
-Além de ser um objeto de estudos sobre WPF, reutilização de componentes, classes e métodos, processos de automatização e centralização de resolução de problemas em uma única aplicação com a proposta de fácil manutenção e usabilidade.
+In addition to being a study object for WPF, component reuse, classes and methods, automation processes, and centralized problem-solving in a single application with the goal of easy maintenance and usability.
 
-## Funcionalidades
+## Features
 
-Ele possui algumas funcionalidades bem como:
+It has several features including:
 
-:cd: Tansferência de setup;
+:cd: Setup transfer;
 
-:link: Cópia de link;
+:link: Link copying;
 
-:leftwards_arrow_with_hook: Abertura de alguns aplicativos que usamos com frequência;
+:leftwards_arrow_with_hook: Opening frequently used applications;
 
-:pencil: Geração e cópia de template para documentação de tarefas;
+:pencil: Generation and copying of task documentation templates;
 
-:gear: Atualização de arquivos de configuração.
+:gear: Updating configuration files.
 
-O sistema conta com sistema e tela de configurações, sistema de notificações e mensagem, e arquivo de log.
+The system includes a settings system and screen, notification and messaging system, and a log file.
 
-## Tela de Configuração
+## Configuration Screen
 
 ![image](https://user-images.githubusercontent.com/35270174/197627760-c5237a7f-c29f-4188-af0d-427a8c2bba86.png)
 
 ![image](https://user-images.githubusercontent.com/35270174/197627788-03e4e23a-85b1-479c-93fb-5bc030f89077.png)
 
-## Repositório
+## Repository
 
 ![image](https://user-images.githubusercontent.com/35270174/197628165-523ccfe2-b004-44a8-8bcc-9a6d6306d0f9.png)
