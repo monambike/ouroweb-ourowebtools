@@ -36,3 +36,13 @@ The system includes a settings system and screen, notification and messaging sys
 ## Repository
 
 ![image](https://user-images.githubusercontent.com/35270174/197628165-523ccfe2-b004-44a8-8bcc-9a6d6306d0f9.png)
+
+## WorkTimeNote
+
+For helping track the collaborator work.
+
+![image](https://github.com/monambike/ourowebtools/assets/35270174/6f241587-e858-4dba-ac3c-b8c469c8bb5b)
+
+![worktimenote_sand_timer-64x64](https://github.com/monambike/ourowebtools/assets/35270174/dd603993-2fba-40c4-b692-4ae5e6b49ff6)
+![worktimenote_working-64x64](https://github.com/monambike/ourowebtools/assets/35270174/2814e02c-1a9c-42c2-9729-b46f0e451617)
+![worktimenote_x-64x64](https://github.com/monambike/ourowebtools/assets/35270174/9a0a8151-c739-457e-ba6e-6e52ad015467)
