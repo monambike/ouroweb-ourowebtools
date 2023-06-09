@@ -1,6 +1,0 @@
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Release\OuroWebTools.dll.config
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Release\OuroWebTools.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\bin\Release\OuroWebTools.pdb
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Release\OuroWebTools.csproj.CoreCompileInputs.cache
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Release\OuroWebTools.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\OuroWebTools\obj\Release\OuroWebTools.pdb

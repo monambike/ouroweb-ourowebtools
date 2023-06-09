@@ -1,9 +1,0 @@
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\bin\Release\VotingRoom.Sql.dacpac
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\bin\Release\Voting.Sql.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\bin\Release\Voting.Sql.pdb
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\Model.xml
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\refactor.xml
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\postdeploy.sql
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\predeploy.sql
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\Voting.Sql.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\Voting.Sql\obj\Release\Voting.Sql.pdb

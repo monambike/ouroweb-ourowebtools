@@ -1,6 +1,0 @@
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\bin\Debug\WorkTimeNote.Server.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\bin\Debug\WorkTimeNote.Server.pdb
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Debug\WorkTimeNote.Server.csproj.CoreCompileInputs.cache
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Debug\WorkTimeNote.Server.dll
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Debug\WorkTimeNote.Server.pdb
-C:\DvpLocal\Github\ouroweb_ourowebtools_desktop\WorkTimeNote.Server\obj\Debug\WorkTimeNote.Server.csproj.AssemblyReference.cache
